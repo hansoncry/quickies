@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2920224564">
+    <data-source source="LOCAL" name="events" uuid="05e13568-2c6b-43a2-a16b-96d2ca3a8eff">
+      <driver-ref>h2.embedded</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:file:$PROJECT_DIR$/events</jdbc-url>
+      <libraries>
+        <library>
+          <url>file://$MAVEN_REPOSITORY$/com/h2database/h2/1.4.185/h2-1.4.185.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
